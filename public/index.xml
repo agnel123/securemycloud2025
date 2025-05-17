@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Secure My Cloud</title>
+    <link>http://securemycloud.org/</link>
+    <description>Recent content on Secure My Cloud</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <atom:link href="http://securemycloud.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>http://securemycloud.org/docs/hello-world/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://securemycloud.org/docs/hello-world/</guid>
+      <description>&lt;h2 id=&#34;history-of-rust&#34;&gt;History of Rust&lt;/h2&gt;&#xA;&lt;p&gt;Rust was initially designed and developed by former Mozilla employee &lt;strong&gt;&lt;a href=&#34;https://github.com/graydon&#34; target=&#34;_blank&#34; &gt;Graydon Hoare&lt;/a&gt;&lt;/strong&gt; as a personal project. Mozilla began sponsoring the project in 2009 and announced it in 2010. But the first stable release, Rust 1.0, was released on May 15, 2015.&lt;/p&gt;&#xA;&lt;p&gt;Since Rust 1.0, major updates have been released as &lt;a href=&#34;http://securemycloud.org/docs/cargo-crates-and-basic-project-structure/#rust-editions&#34; &gt;&lt;code&gt;Editions&lt;/code&gt;&lt;/a&gt; approximately every three years: Rust 2015 (with the release of Rust 1.0) , Rust 2018, Rust 2021, and Rust 2024, all maintaining backward compatibility.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Modules</title>
+      <link>http://securemycloud.org/docs/modules/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://securemycloud.org/docs/modules/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Overview</title>
+      <link>http://securemycloud.org/docs/overview/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://securemycloud.org/docs/overview/</guid>
+      <description>&lt;h2 id=&#34;about-me&#34;&gt;About me&lt;/h2&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;🧑‍💻 I am an expat working in Singapore as a Go Backend and DevOps Engineer. Feel free to reach out if you find any mistakes or anything that needs to be changed, including spelling or grammar errors. Alternatively, you can create a pull request, open an issue, or &lt;a href=&#34;https://gist.github.com/dumindu/00a0be2d175ed5ff3bc3c17bbf1ca5b6&#34; target=&#34;_blank&#34; &gt;share your awesome ideas in this gist&lt;/a&gt;. Good luck with learning Rust!&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/learning-rust/learning-rust.github.io&#34; target=&#34;_blank&#34; &gt;&lt;img src=&#34;https://img.shields.io/github/stars/learning-rust/learning-rust.github.io?style=for-the-badge&amp;amp;logo=rust&amp;amp;label=learning-rust.github.io&amp;amp;logoColor=333333&amp;amp;labelColor=f9f9f9&amp;amp;color=F46623&#34; alt=&#34;learning-rust.github.io&#34;&gt;&lt;/a&gt;&#xA;&lt;a href=&#34;https://learning-cloud-native-go.github.io&#34; target=&#34;_blank&#34; &gt;&lt;img src=&#34;https://img.shields.io/github/stars/learning-cloud-native-go/learning-cloud-native-go.github.io?style=for-the-badge&amp;amp;logo=go&amp;amp;logoColor=333333&amp;amp;label=learning-cloud-native-go.github.io&amp;amp;labelColor=f9f9f9&amp;amp;color=00ADD8&#34; alt=&#34;learning-cloud-native-go.github.io&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/dumindu&#34; target=&#34;_blank&#34; &gt;&lt;img src=&#34;https://img.shields.io/badge/dumindu-866ee7?style=for-the-badge&amp;amp;logo=GitHub&amp;amp;logoColor=333333&amp;amp;labelColor=f9f9f9&#34; alt=&#34;github.com&#34;&gt;&lt;/a&gt;&#xA;&lt;a href=&#34;https://www.buymeacoffee.com/dumindu&#34; target=&#34;_blank&#34; &gt;&lt;img src=&#34;https://img.shields.io/badge/Buy%20me%20a%20coffee-dumindu-FFDD00?style=for-the-badge&amp;amp;logo=buymeacoffee&amp;amp;logoColor=333333&amp;amp;labelColor=f9f9f9&#34; alt=&#34;buymeacoffee&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;This publication has its origins in the posts I authored on Medium at &lt;a href=&#34;https://medium.com/learning-rust&#34; target=&#34;_blank&#34; &gt;https://medium.com/learning-rust&lt;/a&gt;. However, please note that I have ceased updating the Medium posts. All current and future updates, new content, code, and grammar fixes will be exclusively maintained and released here, &lt;a href=&#34;https://learning-rust.github.io&#34; target=&#34;_blank&#34; &gt;https://learning-rust.github.io&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
